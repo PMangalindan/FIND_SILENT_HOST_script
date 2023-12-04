@@ -1,0 +1,7 @@
+inpt_path="test"
+
+ignore_uplinks= True
+
+display_blank_results= False
+
+switch_ignore_list=[]
